@@ -1,2 +1,3 @@
 test/
 env_isaacsim/
+!env_isaacsim/pyscripts/
