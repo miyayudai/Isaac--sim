@@ -1,3 +1,5 @@
-test/
-env_isaacsim/
-!env_isaacsim/pyscripts/
+# 1. Ignore everything INSIDE the folder (note the asterisk)
+venv_isaacsim/*
+
+# 2. Now you can successfully un-ignore the specific subfolder
+!venv_isaacsim/pyscripts/
