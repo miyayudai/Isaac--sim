@@ -2,4 +2,7 @@
 venv_isaacsim/*
 
 # 2. Now you can successfully un-ignore the specific subfolder
-!venv_isaacsim/pyscripts/
+!venv_isaacsim/pyscripts
+
+!venv_isaacsim/USDs/
+
