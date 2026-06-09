@@ -1,8 +1,8 @@
 # 1. Ignore everything INSIDE the folder (note the asterisk)
-venv_isaacsim/*
+venv_isaacsim51/*
 
-# 2. Now you can successfully un-ignore the specific subfolder
-!venv_isaacsim/pyscripts
+# # 2. Now you can successfully un-ignore the specific subfolder
+!venv_isaacsim51/pyscripts
 
-!venv_isaacsim/USDs/
+!venv_isaacsim51/USDs/
 
