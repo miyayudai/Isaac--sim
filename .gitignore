@@ -1,8 +1,20 @@
+.vscode/
+.python-version
+
 # 1. Ignore everything INSIDE the folder (note the asterisk)
 venv_isaacsim51/*
-
 # # 2. Now you can successfully un-ignore the specific subfolder
 !venv_isaacsim51/pyscripts
-
 !venv_isaacsim51/USDs/
 
+venv_isaacsim60/*
+# # 2. Now you can successfully un-ignore the specific subfolder
+!venv_isaacsim60/pyscripts
+!venv_isaacsim60/USDs/
+
+IsaacLab23/*
+# # 2. Now you can successfully un-ignore the specific subfolder
+!IsaacLab23/pyscripts
+!IsaacLab23/USDs/
+
+IsaacLab30/*
